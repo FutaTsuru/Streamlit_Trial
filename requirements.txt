@@ -1,0 +1,21 @@
+# Webアプリ
+streamlit
+
+# ユーザーエージェント解析
+woothee
+
+# タイムゾーン
+pytz
+
+# データ処理
+pandas
+numpy
+
+# グラフ描画
+matplotlib
+
+# 国情報
+pycountry
+
+# 以下は標準ライブラリなので不要:
+# copy, datetime, re, json, urllib, ipaddress
